@@ -1,2 +1,2 @@
 # MONGODB_PyDriver
-This is a python module which connects to MongoDB using a preset user account. Then commits CRUD operations on the DB. 
+This is a python module which connects to MongoDB using a preset user account. Then commits CRUD operations on the DB, check pdf for further information.
